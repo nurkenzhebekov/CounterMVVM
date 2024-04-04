@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CounterMVVM</string>
+    <string name="tv_def_val_0">0</string>
+    <string name="bt_increment">+</string>
+    <string name="bt_decrement">-</string>
+    <string name="bt_reset">Reset</string>
+</resources>
